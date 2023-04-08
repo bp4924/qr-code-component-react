@@ -3,7 +3,6 @@ import React from "react";
 const Container = () => {
   return (
     <div>
-      ;
       <header className="App-header">
         <div className="container">
           <img src="./images/image-qr-code.png" alt="qr code link" />
