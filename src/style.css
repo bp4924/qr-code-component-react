@@ -35,10 +35,12 @@ body {
   padding: 1.25rem;
   box-shadow: 0.5rem 0.5rem 1.5rem var(--grayish-blue);
   margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .container img {
   border-radius: 0.625rem;
+  height: 100%;
   margin-bottom: 1rem;
 }
 
