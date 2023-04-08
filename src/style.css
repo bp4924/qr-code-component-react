@@ -26,14 +26,14 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  margin: 1.25rem;
+  margin: 4rem;
 }
 
 .container {
   background-color: var(--white);
   border-radius: 0.625rem;
   padding: 1.25rem;
-  box-shadow: 0.5rem 0.5rem 0.5rem var(--grayish-blue);
+  box-shadow: 0.5rem 0.5rem 1.5rem var(--grayish-blue);
   margin-bottom: 2rem;
 }
 
@@ -56,6 +56,7 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-bottom: 1rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
