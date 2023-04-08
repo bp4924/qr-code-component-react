@@ -3,7 +3,7 @@ import React from "react";
 const Attribution = () => {
   return (
     <div>
-      <div class="attribution">
+      <div className="attribution">
         Challenge by
         <a
           rel="noreferrer"
@@ -13,7 +13,15 @@ const Attribution = () => {
           {" "}
           Frontend Mentor
         </a>
-        . Coded by <a href="#">Bernie Petters</a>.
+        . Coded by{" "}
+        <a
+          rel="noreferrer"
+          href="https://www.linkedin.com/in/bernie-petters/"
+          target="_blank"
+        >
+          Bernie Petters
+        </a>
+        .
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ const Container = () => {
     <div>
       ;
       <header className="App-header">
-        <div class="container">
+        <div className="container">
           <img src="./images/image-qr-code.png" alt="qr code link" />
           <h1>Improve your front-end skills by building projects!</h1>
           <p>
