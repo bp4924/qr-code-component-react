@@ -4,16 +4,15 @@ const Attribution = () => {
   return (
     <div>
       <div className="attribution">
-        Challenge by
+        Challenge by {"  "}
         <a
           rel="noreferrer"
           href="https://www.frontendmentor.io?ref=challenge"
           target="_blank"
         >
-          {" "}
           Frontend Mentor
         </a>
-        . Coded by{" "}
+        . Coded by{"  "}
         <a
           rel="noreferrer"
           href="https://www.linkedin.com/in/bernie-petters/"
